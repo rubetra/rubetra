@@ -4,16 +4,13 @@ I'm Sophie, a MSc Statistics student at ETH Zurich. Below, you'll find an overvi
 
 ## Projects
 
-### Project 1: Simulation of Infectious Disease Spread
+### Simulation of Infectious Disease Spread (R)
 
-**Description:**  
-A brief description of the project, its purpose, and key features.
-
-**Technologies Used:**  
-- List the main technologies, frameworks, or libraries used in the project.
-
+An Agent-Based Model simulating the spread of infectious disease in university classrooms
 
 [Link to repository](https://github.com/rubetra/Infectious-Disease-Spread)
+
+<br>
 
 ### Project 2: Project Name
 
