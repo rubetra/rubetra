@@ -1,4 +1,4 @@
-## Hello 🙃
+## Hi!
 
 I'm Sophie, a MSc Statistics student at ETH Zurich. Below, you'll find an overview of a few projects I did along with links to each repository.
 
