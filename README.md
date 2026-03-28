@@ -15,8 +15,3 @@ Agent-based model simulating infectious disease dynamics in university classroom
 
 #### [Blackbird Song Analysis (R)](https://github.com/rubetra/Blackbirds)
 GLM-based analysis of song behaviour in male blackbirds across urban vs. forest habitats.
-
----
-
-## Contact
-📧 [sophie.haldemann@outlook.com](mailto:sophie.haldemann@outlook.com)
