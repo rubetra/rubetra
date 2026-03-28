@@ -3,7 +3,7 @@ MSc Statistics student at ETH Zurich
 
 ---
 
-## Projects
+## Selected projects
 
 #### [Bayesian Proof-of-Concept Trial Design (R)](https://github.com/rubetra/Proof-Of-Concept-Bayesian-RCT)
 Bayesian analysis of a Phase 2 clinical trial evaluating Secukinumab vs. placebo 
