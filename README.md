@@ -1,44 +1,22 @@
-## Hi!
+# Sophie Haldemann
+MSc Statistics student at ETH Zurich
 
-I'm Sophie, a MSc Statistics student at ETH Zurich. Below, you'll find an overview of a few projects I did along with links to each repository.
+---
 
 ## Projects
 
-### Simulation of Infectious Disease Spread (R)
+#### [Bayesian Proof-of-Concept Trial Design (R)](https://github.com/rubetra/Proof-Of-Concept-Bayesian-RCT)
+Bayesian analysis of a Phase 2 clinical trial evaluating Secukinumab vs. placebo 
+in ankylosing spondylitis. Covers prior elicitation via MCMC meta-analysis, 
+simulation-based sample size calculation, and posterior probability of superiority.
 
-An Agent-Based Model simulating the spread of infectious disease in university classrooms
+#### [Simulation of Infectious Disease Spread (R)](https://github.com/rubetra/Infectious-Disease-Spread)
+Agent-based model simulating infectious disease dynamics in university classrooms.
 
-[Link to repository](https://github.com/rubetra/Infectious-Disease-Spread)
+#### [Blackbird Song Analysis (R)](https://github.com/rubetra/Blackbirds)
+GLM-based analysis of song behaviour in male blackbirds across urban vs. forest habitats.
 
-<br>
+---
 
-### Project 2: Project Name
-
-**Description:**  
-A brief description of the project, its purpose, and key features.
-
-**Technologies Used:**  
-- List the main technologies, frameworks, or libraries used in the project.
-
-**Repository:**  
-[Link to Project 2 Repository](https://github.com/yourusername/project2)
-
-### Project 3: Project Name
-
-**Description:**  
-A brief description of the project, its purpose, and key features.
-
-**Technologies Used:**  
-- List the main technologies, frameworks, or libraries used in the project.
-
-**Repository:**  
-[Link to Project 3 Repository](https://github.com/yourusername/project3)
-
-## Contact Information
-
-If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me!
-
-- **Email:** [sophie.haldemann@outlook.com](mailto:your.email@example.com)
-
-
-
+## Contact
+📧 [sophie.haldemann@outlook.com](mailto:sophie.haldemann@outlook.com)
