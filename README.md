@@ -1,5 +1,6 @@
 # Sophie Haldemann
 MSc Statistics student at ETH Zurich
+BSc Biology (Minor in Applied Statistics) from University of Zurich 
 
 ---
 
