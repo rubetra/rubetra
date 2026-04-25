@@ -25,5 +25,12 @@ Seminar presentation of Müller et al. (2022) on Prior-Data Fitted Networks for 
 
 <br>
 
+#### [Paper Presentation: A Linear Non-Gaussian Acyclic Model for Causal Discovery (LiNGAM)](https://github.com/rubetra/Paper-presentation-on-LiNGAM-for-Causal-Discovery)
+Excerpt of a seminar group presentation of Shimizu et al. (2006) on LiNGAM, a causal 
+discovery method. The presentation was selected as an example of strong work by 
+the course instructors.
+
+<br>
+
 #### [Blackbird Song Analysis (R)](https://github.com/rubetra/Blackbirds)
-GLM-based analysis of song behaviour in male blackbirds across urban vs. forest habitats.
+GLM-based analysis of song behaviour in male blackbirds across urban vs. forest habitats. Award: Best poster
